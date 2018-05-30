@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="C:\Users\michaeld21\Desktop\website\css\doc.css" type="text/css">
+</head>
+<body>
+    <header>
+        <div class="row">
+            <div class="logo">
+                <img src="../images/Logo.png" />
+            </div>
+            <ul class="main-nav">
+                <li class="active"><a href="index.html">Home</a></li>
+                <li class="active"><a href="About_us.html">About</a></li>
+                <li class="active"><a href="Recommendations.html">Recomendations</a></li>
+                <li class="active"><a href="Contact_Us.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </header>
+    <div class="contact-title">
+        <h1>
+            Please contact our team</h1>
+    </div>
+   
+    <div class="form">
+        <form action="MAILTO:cinder1224@gmail.com" method="post" enctype="text/plain">
+            <input type="text" placeholder="Name" />
+            <input type="text" placeholder="Email" />
+            <input type="text" placeholder="Message" />
+            <input type="submit" value="send" />
+            <input type="reset" value="reset" />
+        </form>
+       
+    </div>
+</body>
+
+</html>
