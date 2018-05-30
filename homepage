@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+    <link rel="stylesheet" href="C:\Users\michaeld21\Desktop\website\css\doc.css" type="text/css">
+</head>
+<body>
+    <header>
+        <div class="row">
+        <ul class="main-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li class="active"><a href="About_us.html">About</a></li>
+            <li class="active"><a href="Recommendations.html">Recomendations</a></li>
+            <li class="active"><a href="Contact_Us.html">Contact Us</a></li>
+        </ul>
+        </div>
+    </header>
+    <div class="homepage_image">
+        <img src="../images/Logo.png" />
+    </div>
+    <div class="homepage_text">
+        <p>welcome to PCPORT, a website desgined to reccomend some our personal favorite games that are on PC.</p>
+        <br /> 
+        <p>The current PCPORT only has three entries for our top games, but if you sumbit your favorite with the reason why, it may become part of ours too!</p>
+        <br /> 
+        <p>>>>....PCPORT INITIALIZATION COMPLETE</p>
+    </div>
+</body>
+</html>
